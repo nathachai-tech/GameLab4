@@ -1,5 +1,16 @@
 # 2D Platformer Starter Kit
 
+Nathachai jumroenpaiboonpol Year 2 
+683380411-4 SEC 03
+
+Game Story - TO NOT GAY
+จอมเวทย์ FEMBOY ท่านหนึ่งได้หลงเข้าป่าลึกลับมาจนพบว่าคนในป่านั้นกลายเป็นปีศาจกันหมดแล้ว สาเหตุมาจาก Gaygorian Virus จึงจำเป็นต้องหนีออกจากป่าโดยมีเทพแห่ง Sunshine คอยเฝ้ามองอยู่
+
+ปล.เกมส์นี้ออกแบบให้มีความท้าทายโดยจะมีหัวใจ 4 ดวงให้ผู้เล่นหากโดนกับดัก 1 ครั้งหรือ HP หมดหลอดจะเสีย 1 หัวใจแต่ว่าหากตกลงไปในป่าลึกจะถือว่าพ่ายแพ้ทันทีและต้องเริ่มใหม่ทั้งหมด 
+
+กำลังใจ: ผมเล่นจบ คุณก็เล่นจบ
+
+
 This starter kit provides all the essential mechanics needed to build a complete 2D platformer game in Godot 4.7. It is designed as a hands-on learning resource for students taking the **Computer Game Development** course at the **College of Computing, Khon Kaen University**.
 
 ## Preview
